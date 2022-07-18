@@ -1,4 +1,4 @@
-import LogoW from '../../public/assets/images/logowilson.png';
+import LogoW from '../../public/assets/images/logowilsontransparente.png';
 
 type ILogoProps = {
   xl?: boolean;
