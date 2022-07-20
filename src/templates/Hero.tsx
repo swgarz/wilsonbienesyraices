@@ -12,7 +12,7 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
+          <Link href="">
             <a>Unete</a>
           </Link>
         </li>
@@ -36,7 +36,7 @@ const Hero = () => (
         }
         description="Estrategias modernas de compra y venta."
         button={
-          <Link href="https://creativedesignsguru.com/category/nextjs/">
+          <Link href="">
             <a>
               <Button xl>Contacto</Button>
             </a>
